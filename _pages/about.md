@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>PhD candidate</p>
-    <p>Marine Conservation Research Group, University of Plymouth, UK</p>
+  #more_info: >
+  #  <p>PhD candidate</p>
+  #  <p>Marine Conservation Research Group, University of Plymouth, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate in the [Marine Conservation Research Group](https://www.plymouth.ac.uk/research/marine-conservation-research-group) at the University of Plymouth. My PhD research is co-funded by the UK Department for Food, Environment, and Rural Affairs (Defra) and the University of Plymouth, and supervised by Prof Abigail McQuatters-Gollop, Prof Sian Rees, Prof Angus Atkinson, and Dr Clare Ostle. Between 2024-2025 I was an Enrichment Student at The Alan Turing Institute, where I was supervised by Dr Oisin Mac Aodha.
+I am a PhD candidate in the [Marine Conservation Research Group](https://www.plymouth.ac.uk/research/marine-conservation-research-group) at the <b>University of Plymouth</b>. My PhD research, co-funded by the UK Department for Food, Environment, and Rural Affairs (Defra), focuses on the ecosystem service impacts of long-term ocean warming. I spent part of my PhD at <b>The Alan Turing Institute</b> as an Enrichment Student, where I worked with [Dr Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/) on AI-based species distribution models. My PhD is supervised by a multidisciplinary team led by Prof Abigail McQuatters-Gollop [Prof Abigail McQuatters-Gollop](https://www.plymouth.ac.uk/staff/abigail-mcquatters-gollop).
+
+My primary research interest is modelling social-ecological systems under global change. I am particularly interested in the societal impacts of climate-driven ecosystem change and the potential for conservation to mitigate any associated societal risks.
