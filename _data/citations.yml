@@ -1,14 +1,6 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-04-06'
 papers:
-  SSunxB8AAAAJ:9yKSN-GCB0IC:
-    citations: 0
-    title: 'mNCEA policy brief-PELCAP: Natural Capital in Plankton & Pelagic Habitats'
-    year: '2024'
-  SSunxB8AAAAJ:IjCSPb-OGe4C:
-    citations: 0
-    title: 'Data Study Group Final Report: UK Centre for Ecology & Hydrology (UKCEH)-Advancing Insect Biodiversity Monitoring through Automated Sensors, Deep Learning, and Citizen Science Data'
-    year: '2024'
   SSunxB8AAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: Mapping global fisheries climate risks to guide sustainable marine management
@@ -17,10 +9,14 @@ papers:
     citations: 1
     title: An assessment model for linking changes in pelagic habitat state to impacts on human wellbeing
     year: '2025'
+  SSunxB8AAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Science challenges and solutions to support implementation of the Biodiversity Beyond National Jurisdiction Agreement
+    year: '2026'
   SSunxB8AAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: 'Linking Environmental State Changes to Marine Ecosystem Service Impacts: Insights from a Real-World Application in the North-East Atlantic'
-    year: Unknown Year
+    year: '2025'
   SSunxB8AAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: Harnessing plankton dynamics to drive management efforts in the face of rapid environmental change
@@ -41,7 +37,3 @@ papers:
     citations: 0
     title: "Plastic waste\u2019s fate in the Black Sea: monitoring litter input and dispersal in the marine environment"
     year: '2021'
-  SSunxB8AAAAJ:zYLM7Y9cAGgC:
-    citations: 0
-    title: Plenty more fish in the sea? Counting the cost of climate change on marine Natural Capital
-    year: '2024'
