@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-10'
 papers:
   SSunxB8AAAAJ:Tyk-4Ss8FVUC:
     citations: 1
     title: Mapping global fisheries climate risks to guide sustainable marine management
     year: '2025'
   SSunxB8AAAAJ:W7OEmFMy1HYC:
-    citations: 1
+    citations: 2
     title: An assessment model for linking changes in pelagic habitat state to impacts on human wellbeing
     year: '2025'
   SSunxB8AAAAJ:WF5omc3nYNoC:
@@ -37,3 +37,7 @@ papers:
     citations: 0
     title: "Plastic waste\u2019s fate in the Black Sea: monitoring litter input and dispersal in the marine environment"
     year: '2021'
+  SSunxB8AAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: Gelatinous zooplankton as indicators in the Kunming Montreal Global Biodiversity Framework
+    year: '2026'
