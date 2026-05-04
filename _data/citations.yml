@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-04'
 papers:
   SSunxB8AAAAJ:Tyk-4Ss8FVUC:
     citations: 1
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: Harnessing plankton dynamics to drive management efforts in the face of rapid environmental change
     year: '2025'
+  SSunxB8AAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Changing Pseudo-nitzschia and Dinophysis distributions in the North Sea and Western Approaches (NE Atlantic) and their potential use in biodiversity assessments
+    year: '2026'
   SSunxB8AAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: 'Mapping selected emergent marine toxin-producing organisms using historical samples with two methods (biosensors and real-time PCR): a comparison of resolution'
@@ -30,7 +34,7 @@ papers:
     title: Modelling the pelagic ecosystem service losses from climate-driven declines in phytoplankton
     year: '2025'
   SSunxB8AAAAJ:qjMakFHDy7sC:
-    citations: 9
+    citations: 11
     title: Predictors of long-term variability in NE Atlantic plankton communities
     year: '2024'
   SSunxB8AAAAJ:u-x6o8ySG0sC:
